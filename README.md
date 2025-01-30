@@ -11,4 +11,4 @@
 
 **Windows_Server_Re-Licencing.md**, Changing Windows Server editions and re-licencing howto.
 
-Forked from original repo by [Carl Hopkins](https://github.com/carlhopkins).
+Forked from original repo by [Carl Hopkins](https://github.com/bitterblitter).
